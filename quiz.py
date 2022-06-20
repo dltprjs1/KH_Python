@@ -11,6 +11,8 @@ elif odd1[-1] == "org":
 elif odd1[-1] == "com":
     print("기업용 사이트 입니다.")
 else:
-    print("알수없는 사이트 입니다")
+    print("알수엄는 사이트 입니다")
 
 print(odd)
+
+git = "git add ."
